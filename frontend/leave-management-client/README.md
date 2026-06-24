@@ -11,7 +11,6 @@ and **React + Vite + Tailwind CSS**.
 - Automatic leave balance tracking
 - Role-specific dashboards and protected routes
   
-<img width="1852" height="905" alt="img" src="https://github.com/user-attachments/assets/cb5f836f-ef76-4921-b2a0-7dd9d248318f" />
 
 ## 🛠️ Tech Stack
 
@@ -43,6 +42,12 @@ cd frontend/leave-management-client
 npm install
 npm run dev
 ```
+
+
+<img width="1852" height="905" alt="img" src="https://github.com/user-attachments/assets/cb5f836f-ef76-4921-b2a0-7dd9d248318f" />
+
+
+
 
 ## 🔐 Sample Credentials
 
