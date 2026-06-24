@@ -1,0 +1,22 @@
+# Backend
+bin/
+obj/
+.vs/
+
+# Frontend
+node_modules/
+dist/
+
+# Environment Files
+.env
+.env.*
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Visual Studio
+.vscode/
